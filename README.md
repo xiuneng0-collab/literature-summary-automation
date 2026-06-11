@@ -43,9 +43,14 @@
 ```text
 ZOTERO_DATA_DIR=你的 Zotero 数据目录
 SUMMARY_OUT_ROOT=总结文件保存位置
-![Uploading 71db33ed142398a4e41661e25d8c33cd.jpg…]()
 
 FEISHU_APP_ID=你的飞书 App ID
+
 FEISHU_APP_SECRET=你的飞书 App Secret
+<img width="1280" height="2612" alt="微信图片_20260611214435_763_46" src="https://github.com/user-attachments/assets/39daaf55-f555-4f1f-8827-d5a6d1864b96" />
+
+
+<img width="1280" height="2612" alt="71db33ed142398a4e41661e25d8c33cd" src="https://github.com/user-attachments/assets/1aa9d5bd-452f-49f1-aa23-008b6730aedd" />
+
 FEISHU_PARENT_NODE=飞书文件夹 token
 FEISHU_PARENT_TYPE=explorer
