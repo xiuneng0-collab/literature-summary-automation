@@ -1,4 +1,5 @@
 # 文献总结自动化工具
+<img width="1280" height="2612" alt="微信图片_20260611214435_763_46" src="https://github.com/user-attachments/assets/8cbbced5-e4ed-42bb-a658-9ee8ad6b722d" />
 
 这是一个给小白用户用的文献总结工具。
 
@@ -47,7 +48,8 @@ SUMMARY_OUT_ROOT=总结文件保存位置
 FEISHU_APP_ID=你的飞书 App ID
 
 FEISHU_APP_SECRET=你的飞书 App Secret
-<img width="1280" height="2612" alt="微信图片_20260611214435_763_46" src="https://github.com/user-attachments/assets/39daaf55-f555-4f1f-8827-d5a6d1864b96" />
+
+
 
 
 <img width="1280" height="2612" alt="71db33ed142398a4e41661e25d8c33cd" src="https://github.com/user-attachments/assets/1aa9d5bd-452f-49f1-aa23-008b6730aedd" />
