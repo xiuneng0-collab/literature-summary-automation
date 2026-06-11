@@ -43,6 +43,8 @@
 ```text
 ZOTERO_DATA_DIR=你的 Zotero 数据目录
 SUMMARY_OUT_ROOT=总结文件保存位置
+![Uploading 71db33ed142398a4e41661e25d8c33cd.jpg…]()
+
 FEISHU_APP_ID=你的飞书 App ID
 FEISHU_APP_SECRET=你的飞书 App Secret
 FEISHU_PARENT_NODE=飞书文件夹 token
